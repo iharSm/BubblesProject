@@ -2,10 +2,10 @@
 
 A methodology for testing asset price bubbles based on the theory was developed by (Robert Jarrow 2011).
 
-#References:
+# References:
 1. Robert Jarrow, Younes Kchia, and Philip Protter. 2011. "How to Detect an Asset Bubble." SIAM Journal on Financial Mathematics.
 
-#Code
+# Code
 Here is how to use this code
 
 Simply call the function run_all with the following parameters
