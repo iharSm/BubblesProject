@@ -16,16 +16,16 @@ this SlidingBubbles.py file (expample below: "data/new_data/BoAFixed_FloatABSInd
 to recap
 
 first iteration:
-min_date                                                         max_date
-    |--------------------------------------------------------------|
-    |-----window=256-----|
+min_date                                     max_date
+    |-------------------------------------------|
+    |-window=256--|
 
 second iteration:
-min_date                                                         max_date
-    |--------------------------------------------------------------|
-    |-step=30--||-----window=256-----|
+min_date                                     max_date
+    |-------------------------------------------|
+    |-step=30-||-window=256--|
 
 third iteration:
-min_date                                                         max_date
-    |--------------------------------------------------------------|
-    |-step=30--||-step=30--||-----window=256-----|
+min_date                                     max_date
+    |-------------------------------------------|
+    |-step=30-||-step=30-||-window=256--|
