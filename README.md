@@ -17,15 +17,21 @@ to recap
 
 first iteration:
 min_date                                     max_date
+
     |-------------------------------------------|
+
     |-window=256--|
 
 second iteration:
 min_date                                     max_date
+    
     |-------------------------------------------|
+    
     |-step=30-||-window=256--|
 
 third iteration:
 min_date                                     max_date
+    
     |-------------------------------------------|
+    
     |-step=30-||-step=30-||-window=256--|
